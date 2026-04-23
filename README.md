@@ -115,6 +115,6 @@
 
   ## 📫 Let's Connect
 
-  - Email: **toby_du@126.com**
+  - Email: **yaogdu@gmail.com**
   - GitHub: **[github.com/yaogdu](https://github.com/yaogdu)**
   - Open to collaborating on **backend architecture, AI infrastructure, observability, and developer tooling**
