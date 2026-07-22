@@ -35,6 +35,19 @@ tooling distribution, observability, and AI-native development workflows.
 | Reliability | Graceful deploys, release gates, monitoring, alerting, backup, and incident response |
 | Backend systems | Java / Go / Python, distributed systems, high concurrency, cloud-native architecture |
 
+## Engineering Roots
+
+Before moving deeply into AI-native systems, I spent years building and operating backend platforms
+where reliability was not optional: payments, booking, marketing campaigns, observability platforms,
+business middle platforms, and high-concurrency services.
+
+That history shapes how I build AI systems now:
+
+- I treat agents as **production systems**, not just prompts.
+- I care about **audit trails, rollback paths, monitoring, and data safety**.
+- I prefer workflows that teams can repeat, review, and improve.
+- I still enjoy hard backend problems: concurrency, consistency, storage, release safety, and operational visibility.
+
 ## Featured Projects
 
 ### [AgentLedger](https://github.com/yaogdu/AgentLedger)
@@ -83,6 +96,22 @@ An AI coding agent environment for the terminal.
 - **Team leadership**: 7+ years across technical governance, engineering workflow design, and cross-functional delivery.
 - **Production scale**: hands-on experience with high-concurrency systems, large traffic events, and multi-team platforms.
 - **AI engineering**: agents, RAG, MCP, LangGraph-style workflows, tool orchestration, and AI-assisted development pipelines.
+
+## Career History
+
+- **Orange Digital Technology**: led architecture work and built an observability stack with Prometheus, SLS, Grafana, and N9E; pushed monitoring coverage, alerting, and reliability governance.
+- **Huanxin Network**: built a business middle platform from scratch, supporting multiple business lines and large-scale daily traffic.
+- **JD Technology**: worked on large-scale marketing and coupon systems for major promotional campaigns.
+- **VIPKID**: led booking and class-management architecture, coordinating with multiple teams around high-traffic scheduling scenarios.
+- **Duolabao**: designed core payment systems, OAuth2 open platform capabilities, data synchronization middleware, and data platform work.
+
+## Selected Strengths
+
+- **Scalable architecture**: distributed systems, high-concurrency services, and business platform design.
+- **Reliability first**: observability, incident response, graceful deploys, release gates, and backup/recovery.
+- **AI infrastructure**: agents, RAG, MCP, AgentOps, skill distribution, and AI coding pipelines.
+- **Product-minded engineering**: turning fuzzy product requirements into systems that can ship and be operated.
+- **Team enablement**: making engineering workflows explicit through docs, checklists, automation, and reusable tools.
 
 ## Tooling I Use Often
 
