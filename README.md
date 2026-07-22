@@ -1,120 +1,117 @@
-<h1 align="center">👋 Hi, I'm Toby Du</h1>
-  <h3 align="center">Better late than never.</h3>
+<h1 align="center">Hi, I'm Toby Du</h1>
 
-  <p align="center">
-    <a href="https://github.com/yaogdu">
-      <img src="https://img.shields.io/github/followers/yaogdu?label=Followers&style=for-the-badge" alt="GitHub followers" />
-    </a>
-    <img src="https://img.shields.io/badge/Location-Beijing%2C%20China-orange?style=for-the-badge" alt="Location" />
-    <img src="https://img.shields.io/badge/Focus-Backend%20Architecture%20%7C%20AI%20Infra-blue?style=for-the-badge" alt="Focus" />
-  </p>
+<h3 align="center">
+  I build reliable AI agents, agent-native infrastructure, and engineering systems that teams can actually run.
+</h3>
 
-  ---
+<p align="center">
+  <a href="https://github.com/yaogdu">
+    <img src="https://img.shields.io/github/followers/yaogdu?label=Followers&style=for-the-badge" alt="GitHub followers" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Beijing%2C%20China-orange?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%7C%20Reliability%20%7C%20DevTools-blue?style=for-the-badge" alt="Focus" />
+</p>
 
-  ## 🚀 About Me
+---
 
-  I'm a backend architect and engineering leader with 10+ years of experience building distributed systems, observability platforms, and enterprise-grade AI infrastructure.
+## What I'm Working On
 
-  - 🔭 Currently focused on **AI-powered tools, AgentOps, RAG workflows, and the MCP ecosystem**
-  - 🏗️ Experienced in designing and scaling distributed systems supporting **10M+ DAU**
-  - ⚡ Passionate about **high concurrency, high availability, reliability engineering, and developer efficiency**
-  - 👥 7+ years of experience in **team leadership, technical governance, and cross-functional delivery**
-  - 💡 Interested in **knowledge management, productivity tools, fintech, and developer platforms**
-  - 📍 Based in **Beijing, China**
+I am focused on the operating layer around AI agents: execution reliability, audit trails,
+tooling distribution, observability, and AI-native development workflows.
 
-  ## 🧠 What I Do
+- Building **durable execution systems** for production AI agents.
+- Designing **AgentOps infrastructure**: traces, metrics, logs, replay, governance, and human approval.
+- Turning team workflows into **skills, prompts, pipelines, and reusable agent systems**.
+- Shipping practical developer tools that make agents easier to inspect, trust, and operate.
+- Bringing 10+ years of backend architecture and reliability experience into AI-native products.
 
-  - Build **high-performance backend systems** with strong stability and observability
-  - Design **cloud-native architectures** for large-scale business platforms
-  - Develop **enterprise AI capabilities** with **LangGraph, AutoGen, MCP, RAG, and AgentOps**
-  - Bridge **technical architecture and product goals** to deliver systems that create real business value
+## Current Direction
 
-  ## 🛠️ Tech Stack
+| Area | What I Care About |
+|---|---|
+| AI agents | Durable execution, task decomposition, tool use, memory, replay, and approval loops |
+| AgentOps | Observability, auditability, cost visibility, failure recovery, and production safety |
+| Developer tools | CLI-first workflows, skill distribution, local-first automation, and AI coding pipelines |
+| Reliability | Graceful deploys, release gates, monitoring, alerting, backup, and incident response |
+| Backend systems | Java / Go / Python, distributed systems, high concurrency, cloud-native architecture |
 
-  ### Languages
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## Featured Projects
 
-  ### Backend & Infra
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-  ![Message Queue](https://img.shields.io/badge/MQ-Message%20Queues-FF6F00?style=for-the-badge)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+### [AgentLedger](https://github.com/yaogdu/AgentLedger)
 
-  ### Cloud & Observability
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-  ![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
-  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-  ![N9E](https://img.shields.io/badge/Nightingale-N9E-4C8BF5?style=for-the-badge)
+Durable execution and reliability runtime for production AI agents.
 
-  ### AI Engineering
-  ![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Workflow-1F6FEB?style=for-the-badge)
-  ![AutoGen](https://img.shields.io/badge/AutoGen-Multi--Agent-7A3EF0?style=for-the-badge)
-  ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-111827?style=for-the-badge)
-  ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0EA5E9?style=for-the-badge)
-  ![AgentOps](https://img.shields.io/badge/AgentOps-Observability%20for%20Agents-10B981?style=for-the-badge)
+- Tracks agent execution as auditable ledgers.
+- Makes long-running agent workflows easier to replay, inspect, and recover.
+- Focuses on reliability, governance, and operational visibility instead of demo-only agent behavior.
 
-  ## 🏆 Selected Highlights
+### [SkillHub](https://github.com/yaogdu/skill-hub)
 
-  - **Scalable Architecture Expert** — 10+ years in backend engineering, with hands-on experience designing distributed systems for **10M+ DAU**
-  - **Reliability Driven** — built and scaled platforms with **99.9%+ availability**, strong observability, and minute-level alerting
-  - **Polyglot Engineer** — advanced proficiency in **Java (Spring Boot)**, **Go**, and **Python**
-  - **Technical Leadership** — 7+ years leading teams, improving R&D workflows, and building engineering governance
-  - **AI Infrastructure Builder** — experienced in enterprise-grade **Agents, RAG workflows, MCP integrations, and AgentOps platforms**
-  - **Product-Minded Architect** — able to turn complex technical requirements into practical systems that drive business outcomes
+A distribution layer for prompts, agent scripts, and MCP servers.
 
-  ## 💼 Experience Snapshot
+- Treats agent capabilities as versioned, installable assets.
+- Supports local runtime setup, metadata indexing, and repeatable installation.
+- Designed for teams that need shared AI capabilities without copy-paste drift.
 
-  - **Orange Digital Technology** — Led architecture design and built the company-wide observability stack with **Prometheus, SLS, Grafana, and N9E**, achieving **99.9% uptime** and minute-level monitoring
-  - **Huanxin Network** — Built the business middle platform from scratch, supporting **6 business lines**, **millions of DAU**, and **99.99% system stability**
-  - **JD Technology** — Supported large-scale marketing and coupon systems during major promotional campaigns with **millions of QPS**
-  - **VIPKID** — Led booking and class-management architecture, supporting **100,000 peak QPS** and 10+ collaborating teams
-  - **Duolabao** — Designed core payment systems, OAuth2 open platform, data synchronization middleware, and big data capabilities
+### [Agent-Reach](https://github.com/yaogdu/Agent-Reach)
 
-  ## 📦 Featured Projects
+A CLI that gives agents web reach across public sources such as GitHub, Reddit, YouTube,
+Bilibili, XiaoHongShu, and more.
 
-  ### SkillHub: Enterprise AI Asset Distribution & AgentOps Infrastructure
-  A unified distribution system for **Prompts, Agent scripts, and MCP Servers**, built around the **`npx` interaction paradigm** with enterprise-grade enhancements.
+- Built for agents that need external context without bespoke API integrations.
+- Optimized for practical search and reading workflows.
 
-  - Standardized package format for **Prompts / Agents / MCPs**
-  - Automated runtime isolation with **Python venv** and **Node modules**
-  - Shadow path mapping via **symlink orchestration**
-  - Deep integration with **Anthropic MCP**
-  - Offline-ready versioned snapshotting and metadata indexing
-  - Static auditing pipeline for high-risk command filtering
+### [Understand-Anything](https://github.com/yaogdu/Understand-Anything)
 
-  ### Enterprise Stability & Observability Revitalization
-  A company-wide observability initiative designed to shift engineering from reactive firefighting to proactive system management.
+Interactive knowledge graphs for codebases.
 
-  - Built a unified observability platform across **Java, Go, and Python**
-  - Developed an **AI-driven Alert Gateway** with alert convergence and automated ACK workflows
-  - Implemented **graceful startup/shutdown** protocols to reduce deployment failures
-  - Drove adoption of standardized monitoring and on-call governance
-  - Reached **85% monitoring coverage** and minute-level anomaly detection
+- Turns repositories into explorable graphs.
+- Helps developers and agents understand unfamiliar systems faster.
+- Built around the idea that graphs should teach, not just impress.
 
-  ## 📈 GitHub Activity
+### [oh-my-pi](https://github.com/yaogdu/oh-my-pi)
 
-  <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=yaogdu&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaogdu&layout=compact&theme=tokyonight&hide_border=true" />
-  </p>
+An AI coding agent environment for the terminal.
 
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaogdu&theme=tokyo-night&hide_border=true" />
-  </p>
+- Focuses on local harnesses, tools, LSP, subagents, and safer edit workflows.
+- Explores what a practical AI-native developer environment should feel like.
 
-  ## 💭 Random Dev Quote
+## Experience Snapshot
 
-  <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  </p>
+- **Backend architecture**: 10+ years designing distributed systems, business platforms, and high-availability services.
+- **Reliability engineering**: observability, alerting, release gates, graceful startup/shutdown, backup and recovery.
+- **Team leadership**: 7+ years across technical governance, engineering workflow design, and cross-functional delivery.
+- **Production scale**: hands-on experience with high-concurrency systems, large traffic events, and multi-team platforms.
+- **AI engineering**: agents, RAG, MCP, LangGraph-style workflows, tool orchestration, and AI-assisted development pipelines.
 
-  ## 📫 Let's Connect
+## Tooling I Use Often
 
-  - Email: **yaogdu@gmail.com**
-  - GitHub: **[github.com/yaogdu](https://github.com/yaogdu)**
-  - Open to collaborating on **backend architecture, AI infrastructure, observability, and developer tooling**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-111827?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0EA5E9?style=for-the-badge)
+![AgentOps](https://img.shields.io/badge/AgentOps-Production%20AI%20Agents-10B981?style=for-the-badge)
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yaogdu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaogdu&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaogdu&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
+</p>
+
+## Contact
+
+- GitHub: [github.com/yaogdu](https://github.com/yaogdu)
+- Email: [yaogdu@gmail.com](mailto:yaogdu@gmail.com)
+- Open to discussing: **AI agents, AgentOps, developer tooling, backend reliability, and AI-native engineering workflows**.
